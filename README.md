@@ -33,7 +33,7 @@ I build the engineering around models (ingestion, grounding, validation and eval
   </tr>
   <tr>
     <td width="24%" valign="top">
-      <a href="https://github.com/satnovaOG/ClearFlow-"><b>ClearFlow</b></a><br/>
+      <a href="https://github.com/satnovaOG/ClearFlow"><b>ClearFlow</b></a><br/>
       <sub>Assistive technology</sub>
     </td>
     <td valign="top">
